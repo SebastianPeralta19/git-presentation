@@ -1,1 +1,3 @@
-afilen sus cuchillossss
+Linea 1: Titulo del proyecto
+Linea 2: Este texto sera modificado por ambos.
+Linea 3: Fin del archivo
